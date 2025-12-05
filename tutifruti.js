@@ -39,8 +39,25 @@ function getLetra(){
 
     document.getElementById("inputPalabra").value = document.getElementById("inputPalabra").value + letraElegida;
 
+    let restantesActual = parseInt(document.getElementById("vueltasRestantes").innerText);
+    restantesActual = restantesActual - 1;
+    document.getElementById("vueltasRestantes").innerText = restantesActual;
+    
+    if(restantesActual === 0){
+        document.getElementById("btnSacar").disabled = true;
+        document.getElementById("btnReiniciar").disabled = false;
+    }
+}
+
+function reiniciar() {
+    document.getElementById("vueltasRestantes").innerText = document.getElementById("vueltasTotal").value;
+    document.getElementById("btnSacar").disabled = false;
+    document.getElementById("btnReiniciar").disabled = true;
+    document.getElementById("letra").src = `./img/signo.svg`;
 }
 
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("inputPalabra").value = "";
+    document.getElementById("vueltasRestantes").innerText = document.getElementById("vueltasTotal").value;
+    document.getElementById("btnReiniciar").disabled = true;
 });
