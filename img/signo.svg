@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg">
- <text transform="scale(1.0391 .9624)" x="-0.44312567" y="6.4964781" fill="#000000" font-family="Z003" font-size="11.16px" stroke-width=".23287" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="-0.44312567" y="6.4964781" stroke-width=".23287">?</tspan></text>
+
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 6.35 6.35"
+   id="svg1"
+   sodipodi:docname="signo.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="20.583333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 1.0076743,5.7375981 c 0.10044,0.25668 0.31248,0.60264 0.52452,0.85932 0.40176,-0.29016 0.51336,-0.37944 0.82584,-0.70308 -0.17856,-0.26784 -0.35712,-0.54684 -0.52452,-0.82584 -0.36828,0.30132 -0.64728,0.52452 -0.82584,0.6696 z m 0.99324,-1.19412 c 0.07812,-0.93744 0.25668,-1.31688 0.62496,-1.30572 0.7812,-0.06696 0.99324,-0.12276 1.40616,-0.36828 0.64728,-0.36828 1.07136,-1.09368 1.07136,-1.8302399 0,-0.64728004 -0.49104,-1.03788003 -1.31688,-1.03788003 -0.7254,0 -1.20528,0.17856 -1.70748,0.63611999 0.07812,0.26784 0.12276,0.36828004 0.23436,0.68076004 0.3348,-0.62496004 0.77004,-0.95976004 1.24992,-0.95976004 0.37944,0 0.62496,0.30132 0.62496,0.73656004 0,0.3905999 -0.1674,0.8035199 -0.4464,1.1383199 -0.32364,0.36828 -0.69192,0.53568 -1.21644,0.53568 -0.15624,0 -0.279,-0.01116 -0.51336,-0.06696 l -0.20088,0.1674 c -0.10044,0.81468 -0.12276,0.98208 -0.18972,1.79676 z"
+     id="text1"
+     style="font-size:11.16px;font-family:Z003;stroke-width:0.23287"
+     transform="scale(1.0391 .9624)"
+     aria-label="?" />
 </svg>
