@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg">
- <text transform="scale(1.0391 .9624)" x="-0.78580546" y="6.2359996" fill="#000000" font-family="Z003" font-size="10.162px" stroke-width=".21205" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="-0.78580546" y="6.2359996" stroke-width=".21205">O</tspan></text>
+
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 6.35 6.35"
+   id="svg1"
+   sodipodi:docname="o.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="20.583333"
+     inkscape:cx="11.975709"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 4.1630884,0.23025776 c -0.843446,0 -1.920618,0.42680399 -2.6217959,1.02636194 -0.81296001,0.721502 -1.27024999,1.839322 -1.27024999,3.1197339 0,1.300736 0.59955798,1.991752 1.72753999,1.991752 0.9349039,0 1.9307799,-0.436966 2.7030919,-1.16863 0.741826,-0.71134 1.1381439,-1.7580259 1.1381439,-2.9977899 0,-1.28041196 -0.5893959,-1.97142794 -1.6767299,-1.97142794 z m -0.579234,0.39631799 c 0.894256,0 1.42268,0.70117795 1.42268,1.89013195 0,0.782474 -0.20324,1.6360819 -0.538586,2.2254779 -0.436966,0.772312 -1.127982,1.21944 -1.87997,1.21944 -0.9349039,0 -1.4836519,-0.731664 -1.4836519,-1.9815899 0,-1.890132 1.0771719,-3.35345995 2.4795279,-3.35345995 z"
+     id="text1"
+     style="font-size:10.162px;font-family:Z003;stroke-width:0.21205"
+     transform="scale(1.0391 .9624)"
+     aria-label="O" />
 </svg>

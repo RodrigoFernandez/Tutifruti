@@ -1,5 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg">
- <text x="-0.24997549" y="5.6288548" fill="#000000" font-family="Z003" font-size="9.4744px" stroke-width=".19769" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="-0.24997549" y="5.6288548" stroke-width=".19769">C</tspan></text>
+
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 6.35 6.35"
+   id="svg1"
+   sodipodi:docname="c.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="20.583333"
+     inkscape:cx="11.975709"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 4.7619819,5.0319676 C 3.8903371,5.6288548 3.246078,5.8751891 2.58287,5.8751891 c -0.7484776,0 -1.2221976,-0.5684639 -1.2221976,-1.4685319 0,-1.9706751 1.3927368,-3.93187581 2.7949479,-3.93187581 0.568464,0 0.852696,0.35055278 0.9095424,1.09903031 L 5.7662682,0.97692456 C 5.7283706,0.67374378 5.6715242,0.52215339 5.5578314,0.38003739 5.3778179,0.1621262 5.0367395,0.02948461 4.6577635,0.02948461 c -0.8242728,0 -1.7811871,0.48319438 -2.6149343,1.31694149 C 1.1238124,2.2654429 0.58377167,3.525538 0.58377167,4.75721 c 0,0.9758631 0.54004073,1.5632759 1.44010873,1.5632759 0.8242728,0 1.8475079,-0.378976 2.6717807,-1.0042863 z"
+     id="text1"
+     style="font-size:9.4744px;font-family:Z003;stroke-width:0.19769"
+     aria-label="C" />
 </svg>

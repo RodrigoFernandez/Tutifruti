@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg">
- <text transform="scale(1.0391 .9624)" x="0.46731248" y="5.8773441" fill="#000000" font-family="Z003" font-size="10.013px" stroke-width=".20893" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="0.46731248" y="5.8773441" stroke-width=".20893">S</tspan></text>
+
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 6.35 6.35"
+   id="svg1"
+   sodipodi:docname="s.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="20.583333"
+     inkscape:cx="11.975709"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 0.90788446,4.8560182 0.46731248,5.8973701 c 0.35045499,0.470611 0.81105292,0.690897 1.47191092,0.690897 1.5319889,0 3.0339389,-1.2416119 3.0339389,-2.5232759 0,-0.410533 -0.150195,-0.620806 -0.90117,-1.2015599 -0.7309489,-0.570741 -0.8511049,-0.740962 -0.8511049,-1.171521 0,-0.6608579 0.4906369,-1.21157292 1.0814039,-1.21157292 0.420546,0 0.570741,0.18023399 0.680884,0.82106592 L 5.6440332,0.83079237 C 5.5839552,0.29009039 5.2835653,0.0097264 4.7528763,0.0097264 c -1.031339,0 -2.2028599,1.131469 -2.2028599,2.1327689 0,0.460598 0.20026,0.771001 0.791027,1.2315989 0.6808839,0.540702 0.8611179,0.811053 0.8611179,1.271651 0,0.791027 -0.750975,1.4719109 -1.6221059,1.4719109 -0.430559,0 -0.871131,-0.190247 -1.141482,-0.490637 C 1.2283004,5.3967202 1.1481965,5.1864472 1.0680925,4.7458752 Z"
+     id="text1"
+     style="font-size:10.013px;font-family:Z003;stroke-width:0.20893"
+     transform="scale(1.0391 .9624)"
+     aria-label="S" />
 </svg>
