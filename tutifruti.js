@@ -54,6 +54,7 @@ function reiniciar() {
     document.getElementById("btnSacar").disabled = false;
     document.getElementById("btnReiniciar").disabled = true;
     document.getElementById("letra").src = `./img/signo.svg`;
+    document.getElementById("inputPalabra").value = "";
 }
 
 document.addEventListener("DOMContentLoaded", function() {
