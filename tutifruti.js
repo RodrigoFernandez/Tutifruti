@@ -57,6 +57,11 @@ function reiniciar() {
     document.getElementById("inputPalabra").value = "";
 }
 
+function iniciar() {
+    document.getElementById("inicio").classList.add("hidden");
+    document.getElementById("principal").classList.remove("hidden");
+}
+
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("inputPalabra").value = "";
     document.getElementById("vueltasRestantes").innerText = document.getElementById("vueltasTotal").value;

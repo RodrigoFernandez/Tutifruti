@@ -26,11 +26,14 @@
         
     </head>
 
-    <body class="bg-principal pl-8 pr-8">
-        <header class="bg-principal-header text-center p-4 rounded-xl shadow-lg">
+    <body class="flex flex-col min-h-screen bg-principal pl-8 pr-8 bg-[url('./img/tutifruti.png')] bg-center bg-no-repeat bg-cover">
+        <header class="bg-principal-header text-center p-4 rounded-xl mt-1 shadow-lg">
             <h1 class="text-texto-contenido">Tutifruti</h1>
         </header>
-        <main class="max-w-sm mx-auto p-4">
+        <main id="inicio" class="flex-grow max-w-sm mx-auto p-4">
+            <button id="btnIniciar" onclick="iniciar()" class="pt-4 pb-4 pl-8 pr-8 bg-botones text-texto-contenido rounded-xl">Iniciar</button>
+        </main>
+        <main id="principal" class="flex-grow max-w-sm mx-auto p-4 hidden">
             <div class="m-4 p-4 bg-white text-center rounded-xl">
                 <h3>Vueltas restantes: <span id="vueltasRestantes"></span></h3>
             </div>
@@ -46,8 +49,8 @@
                 <button id="btnReiniciar" onclick="reiniciar()" class="pt-4 pb-4 pl-8 pr-8 bg-botones text-texto-contenido rounded-xl">Reiniciar</button>
             </div>
         </main>
-        <footer class="bg-principal-header text-center p-4 rounded-xl mb-8 shadow-lg">
-            2025
+        <footer class="bg-principal-header text-center p-4 rounded-xl mb-1 shadow-lg">
+            2025 - Versión 1.0.1
         </footer>
         
         <script type="text/javascript" src="./tutifruti.js"></script>
