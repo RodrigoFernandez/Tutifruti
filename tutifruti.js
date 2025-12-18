@@ -35,8 +35,6 @@ function getLetra(){
     console.log(letraElegida);
     console.log(letrasRestantes);
 
-    document.getElementById("letra").src = `./img/${letraElegida}.svg`;
-
     document.getElementById("inputPalabra").value = document.getElementById("inputPalabra").value + letraElegida;
 
     let restantesActual = parseInt(document.getElementById("vueltasRestantes").innerText);
@@ -47,6 +45,18 @@ function getLetra(){
         document.getElementById("btnSacar").disabled = true;
         document.getElementById("btnReiniciar").disabled = false;
     }
+
+    document.getElementById("letra").classList.remove('opacity-100', 'scale-100');
+    document.getElementById("letra").classList.add('opacity-0', 'scale-75');
+    
+    setTimeout(() => {
+        document.getElementById("letra").src = `./img/${letraElegida}.svg`;
+        document.getElementById("letra").onload = () => {
+            document.getElementById("letra").classList.remove('opacity-0', 'scale-75');
+            document.getElementById("letra").classList.add('opacity-100', 'scale-100');
+        };
+    }, 300); // Duración 300ms
+    
 }
 
 function reiniciar() {
